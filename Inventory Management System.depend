@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1725880691 source:c:\users\97150\desktop\inventory management system\inventory management system\main.cpp
+	<iostream>
+	<unordered_map>
+	<queue>
+	<string>
+	<iomanip>
+
